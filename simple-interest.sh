@@ -11,6 +11,7 @@
    # r, annual rate of interest
    # Output:
    # simple interest = p*t*r
+   # change detection Feb 19
    echo "Enter the principal:"
    read p
    echo "Enter rate of interest per year:"
